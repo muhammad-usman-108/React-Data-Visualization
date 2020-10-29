@@ -1,6 +1,9 @@
 The aim of this project is to visualize the data in react.js. The eChart.js library of javaScript have great support in react. 
 
 ---
+You can find the detail in my Medium article published in " Analytics Vidhya"
+
+https://medium.com/analytics-vidhya/data-visualization-with-react-echarts-1fa5c765e523
 
 ### React 
 is an open-source JavaScript library, maintained by Facebook for building user interfaces or UI components.
